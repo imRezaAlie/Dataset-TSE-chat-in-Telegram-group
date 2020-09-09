@@ -6,7 +6,7 @@
 
 ## Dataset for Tehran Stock Exchange chat in Telegram groups(Persian)
 <br>
-count of records : 367,223
+count of records : 442213
 
 ## dataset attributes :
 <br>
